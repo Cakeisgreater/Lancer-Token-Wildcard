@@ -1,5 +1,6 @@
-Move "token_wildcard:" to /Data/
-
+# Installation
+Extract "token_wildcard:" to /Data/
+Don't worry, it's just a bunch of empty folders to serve as directories!
 
 In your world, import the compendiums marked "tw-strikers", "tw-defenders", "tw-controllers", etc. They will be blank, unconfigured actors for legal reasons, as the NPC data and LCPs are property of Massif Press. Add the classes yourself! I would recommend "Quick Insert" to speed up the process.
 
