@@ -2,6 +2,7 @@
     "name": "lancer-token-wildcard",
     "title": "LANCER Token Wildcard",
     "author": "Cake#1117",
+    "manifest": "https://github.com/Cakeisgreater/Lancer-Token-Wildcard",
     "description": "A module for LANCER that pre-configures NPC actors for Randomize Wildcard Images. You must legally own the proper compendium data.",
     "packs": [
         {
