@@ -23,3 +23,4 @@ manifest: "https://github.com/Cakeisgreater/Lancer-Token-Wildcard/releases/downl
 
 
 ### Special Thanks to the folks at PILOT NET, Foundry, and Retrograde Minis Discord Servers.
+![wildcard demo](https://user-images.githubusercontent.com/129597129/230131296-2c2ddec6-26f9-4f5f-8fa7-a3626fadc043.gif)
