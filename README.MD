@@ -14,7 +14,9 @@ In your world, import the compendiums marked "tw-strikers", "tw-defenders", "tw-
 ## Sourcing Token Art:
 Now you need to add art. They must be .png files. I would recommend "[Retrograde Minis](https://retrogrademinis.com/)" and their Discord!
 
-Alternatively you can go to "https://mega.nz/file/UGcEDDQC#5hxWnFXlLurmcZwJdxdDxF4KQNWFbcX2yF_61JR1tlg" for my files. Just extract this to /Data/ instead of the included empty "token_wildcard.zip" archive. All the artwork is thanks to the wonderful people at the Retrograde Minis Discord! The Assets are derived from Retrograde's wonderful website (linked above).
+Alternatively you can go to "https://mega.nz/file/UGcEDDQC#5hxWnFXlLurmcZwJdxdDxF4KQNWFbcX2yF_61JR1tlg" for my folder, which uses art by the wonderful folks over at the Retrograde Minis Discord Server. Their artwork is in turn derived from the style and assets created by Retrograde! Support their patreon. 
+
+Just extract this file to ```/Data/``` instead of the included empty "token_wildcard.zip" archive. 
 
 ### other other
 manifest: "https://github.com/Cakeisgreater/Lancer-Token-Wildcard/releases/download/latest/module.json"
