@@ -10,6 +10,6 @@ In your world, import the compendiums marked "tw-strikers", "tw-defenders", "tw-
 
 Now you need to add art. They must be .png files. I would recommend "Retrograde Minis" and their Discord!
 
-Alternatively you can go to [placeholder] for my files.
+Alternatively you can go to "https://mega.nz/file/UGcEDDQC#5hxWnFXlLurmcZwJdxdDxF4KQNWFbcX2yF_61JR1tlg" for my files. Just extract this to /Data/ instead of the included empty "token_wildcard.zip" archive.
 
 manifest: "https://github.com/Cakeisgreater/Lancer-Token-Wildcard/releases/download/latest/module.json"
