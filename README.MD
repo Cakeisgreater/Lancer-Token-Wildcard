@@ -5,7 +5,7 @@ Extract "token_wildcard:" to ```/Data/```
 
 done!
 
-**Note:** Don't worry, it's just a bunch of empty folders to serve as directories!
+**Note:** Don't worry, it's just a bunch of empty folders to serve as directories! It is your job to fill these directories out!
 
 
 # Other Info (legal?):
