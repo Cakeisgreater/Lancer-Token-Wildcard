@@ -20,3 +20,6 @@ Just extract this file to ```/Data/``` instead of the included empty "token_wild
 
 ### other other
 manifest: "https://github.com/Cakeisgreater/Lancer-Token-Wildcard/releases/download/latest/module.json"
+
+
+## Thanks to the folks at PILOT NET, Foundry, and Retrograde Minis Discord Servers.
