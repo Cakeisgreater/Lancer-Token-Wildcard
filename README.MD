@@ -18,14 +18,15 @@ it takes advantage of Foundry's in-built "Randomize wildcard images" feature, wh
 You can always add your own directories and follow Foundry's guide [here] https://foundryvtt.com/article/tokens/ to configure them. 
 
 ## Some nice modules to have
-- [Token Variant Art] https://foundryvtt.com/packages/token-variants
+- [Token Variant Art](https://foundryvtt.com/packages/token-variants)
 - [Quick Insert](https://foundryvtt.com/packages/quick-insert)
 
 ## Extras
-- If you want to create a character sheet for a token, use the following macro:
+- If you want to create a character sheet for a token with no linked character sheet, use the following macro:
 ```js
 Actor.create({...token.actor.toObject(), folder: null, name: `NEW ${token.actor.name}`})
 ```
+
 ## Sourcing Token Art:
 Now you need to add art. They must be .png files. I would recommend "[Retrograde Minis](https://retrogrademinis.com/)" and their Discord!
 
