@@ -32,6 +32,8 @@ Now you need to add art. They must be .png files. I would recommend "[Retrograde
 
 Alternatively you can go to "https://mega.nz/file/UGcEDDQC#5hxWnFXlLurmcZwJdxdDxF4KQNWFbcX2yF_61JR1tlg" for my folder, which uses art by the wonderful folks over at the Retrograde Minis Discord Server. Their artwork is in turn derived from the style and assets created by Retrograde! Support their patreon. This file is configured with the correct paths and names, so you can Just extract this file to ```/Data/``` instead of the included empty "token_wildcard.zip" archive. 
 
+Edit: updated MEGA file. now includes some factions and more art variety for non-Ronin NPCs.
+
 ### Manifest
 manifest: "https://github.com/Cakeisgreater/Lancer-Token-Wildcard/releases/download/latest/module.json"
 
