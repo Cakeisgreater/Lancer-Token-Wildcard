@@ -12,10 +12,12 @@ done!
 ## What this module does
 Ever want to just drag and drop NPC actors onto canvas without fiddling around with custom artwork? ~~And you don't mind them being randomly chosen?~~ Well here's the module for you!
 
-LANCER for foundry doesn't come with any of the CRB NPCs made as actors because the NPC data is protected and must be purchased from Massif Press (which you should do!). This module also has to side benefit of already creating empty actor sheets for every category, all you need to do is drag and drop the NPC classes onto the corresponding actors.
+LANCER for foundry doesn't come with any of the core rulebook's NPCs configured as Actors because the NPC data is protected and must be purchased from Massif Press. This module also saves you the time of having to tediously make every actor and sort them into categories by type. All you need to do is import the compendiums and drag and drop the NPC classes onto the corresponding actors.
+
+Still tedious, but not *as* tedious.
 
 ## How it works
-it takes advantage of Foundry's in-built "Randomize wildcard images" feature, which randomizes the token art of actors when placed, sourcing the artwork from a given directory. All I've done is preconfigure the actors and directories for you, so you can start building your encounters instead of fiddling with NPC tokens. 
+This module takes advantage of Foundry's eponymous "Randomize wildcard images" feature, which randomizes the token art of actors when placed, sourcing the artwork from a given directory. All I've done is preconfigure the actors and directories for you, so you can start building your encounters instead of fiddling with NPC tokens. 
 
 You can always add your own directories and follow Foundry's guide [here] https://foundryvtt.com/article/tokens/ to configure them. 
 
