@@ -1,5 +1,5 @@
 # Installation
-After downloading the module using the manifest (at bottom of README),
+After downloading the module using the **manifest (at bottom of README),**
 
 go to ```/data/modules/lancer-token-wildcard```.
 
