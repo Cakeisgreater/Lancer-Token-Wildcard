@@ -15,6 +15,8 @@ done!
 ## What this module does
 Ever want to just drag and drop NPC actors onto canvas without fiddling around with custom artwork? ~~And you don't mind them being randomly chosen?~~ Well here's the module for you!
 
+This module contains the compendiums made from my home setup, with blank actors and preconfigured prototype tokens for Wildcard. It also includes correctly named folders to use as directories for token art.
+
 LANCER for foundry doesn't come with any of the core rulebook's NPCs configured as Actors because the NPC data is protected and must be purchased from Massif Press. This module also saves you the time of having to tediously make every actor and sort them into categories by type. All you need to do is import the compendiums and drag and drop the NPC classes onto the corresponding actors.
 
 Still tedious, but not *as* tedious.
@@ -22,7 +24,7 @@ Still tedious, but not *as* tedious.
 ## How it works
 This module takes advantage of Foundry's eponymous "Randomize wildcard images" feature, which randomizes the token art of actors when placed, sourcing the artwork from a given directory. All I've done is preconfigure the actors and directories for you, so you can start building your encounters instead of fiddling with NPC tokens. 
 
-You can always add your own directories and follow Foundry's guide [here] https://foundryvtt.com/article/tokens/ to configure them. 
+You can always add your own directories and follow Foundry's guide [here](https://foundryvtt.com/article/tokens/) to configure them. 
 
 ## Some nice modules to have
 - [Token Variant Art](https://foundryvtt.com/packages/token-variants)
@@ -37,7 +39,7 @@ Actor.create({...token.actor.toObject(), folder: null, name: `NEW ${token.actor.
 ## Sourcing Token Art:
 Now you need to add art. They must be .png files. I would recommend "[Retrograde Minis](https://retrogrademinis.com/)" and their Discord!
 
-Alternatively you can go to "https://mega.nz/file/UGcEDDQC#5hxWnFXlLurmcZwJdxdDxF4KQNWFbcX2yF_61JR1tlg" for my folder, which uses art by the wonderful folks over at the Retrograde Minis Discord Server. Their artwork is in turn derived from the style and assets created by Retrograde! Support their patreon. This file is configured with the correct paths and names, so you can Just extract this file to ```/Data/``` instead of the included empty "token_wildcard.zip" archive. 
+Alternatively you can go to [this link](https://mega.nz/file/pb8WgSpK#YX_6tRm31ft-_a6ewNePmPqcgl-x1mWGH4QdQdGmh9k) for my folder, which uses art by the wonderful folks over at the Retrograde Minis Discord Server. Their artwork is in turn derived from the style and assets created by Retrograde! Support their patreon. This file is configured with the correct paths and names, so you can Just extract this file to ```/Data/``` instead of the included empty "token_wildcard.zip" archive. 
 
 Edit: updated MEGA file. now includes some factions and more art variety for non-Ronin NPCs.
 
