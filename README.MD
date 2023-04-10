@@ -1,5 +1,8 @@
+# Manifest
+manifest: "https://github.com/Cakeisgreater/Lancer-Token-Wildcard/releases/download/latest/module.json"
+
 # Installation
-After downloading the module using the **manifest (at bottom of README),**
+After downloading the module using the **manifest**
 
 go to ```/data/modules/lancer-token-wildcard```.
 
@@ -38,8 +41,6 @@ Alternatively you can go to "https://mega.nz/file/UGcEDDQC#5hxWnFXlLurmcZwJdxdDx
 
 Edit: updated MEGA file. now includes some factions and more art variety for non-Ronin NPCs.
 
-### Manifest
-manifest: "https://github.com/Cakeisgreater/Lancer-Token-Wildcard/releases/download/latest/module.json"
 
 ### Special Thanks to the folks at PILOT NET, Foundry, and Retrograde Minis Discord Servers.
 ![wildcard demo](https://user-images.githubusercontent.com/129597129/230131296-2c2ddec6-26f9-4f5f-8fa7-a3626fadc043.gif)
