@@ -12,7 +12,11 @@ In your world, import the compendiums marked "tw-strikers", "tw-defenders", "tw-
 
 done!
 
-## What this module does
+## Features (short)
+- Preconfigured tokens and blank actor sheets for each official Massif NPC class for Token wildcard (see gifs below). Data not included
+- Generic Cover deployables!
+
+## Features (long)
 Ever want to just drag and drop NPC actors onto canvas without fiddling around with custom artwork? ~~And you don't mind them being randomly chosen?~~ Well here's the module for you!
 
 This module contains the compendiums made from my home setup, with blank actors and preconfigured prototype tokens for Wildcard. It also includes correctly named folders to use as directories for token art.
@@ -29,6 +33,7 @@ You can always add your own directories and follow Foundry's guide [here](https:
 ## Some nice modules to have
 - [Token Variant Art](https://foundryvtt.com/packages/token-variants)
 - [Quick Insert](https://foundryvtt.com/packages/quick-insert)
+- [Hex token size support](https://foundryvtt.com/packages/hex-size-support)
 
 ## Extras
 - If you want to create a character sheet for a token with no linked character sheet, use the following macro:
