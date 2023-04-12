@@ -4,8 +4,8 @@
     "author": "Cake#1117",
     "description": "A module for LANCER that pre-configures NPC actors for Randomize Wildcard Images. You must legally own the proper compendium data.",
 	"url": "https://github.com/Cakeisgreater/Lancer-Token-Wildcard",
-	"manifest": "https://github.com/Cakeisgreater/Lancer-Token-Wildcard/releases/latest/module.json",
-	"download": "https://github.com/Cakeisgreater/Lancer-Token-Wildcard/releases/latest/module.zip",
+	"manifest": "https://github.com/Cakeisgreater/Lancer-Token-Wildcard/releases/download/latest/module.json",
+	"download": "https://github.com/Cakeisgreater/Lancer-Token-Wildcard/releases/download/latest/module.zip",
     "packs": [
         {
             "name": "tw-artillery",
@@ -60,7 +60,16 @@
             "path": "packs/tw-support.db",
             "entity": "Actor",
             "module": "lancer-token-wildcard"
-        }
+        },
+	{
+	"name": "tw-cover",
+        "label": "tw-cover",
+        "type": "Actor",
+        "system": "lancer",
+        "path": "packs/tw-cover.db",
+        "entity": "Actor",
+        "module": "lancer-token-wildcard"
+	}
     ],
     "id": "lancer-token-wildcard",
     "authors": [
