@@ -18,6 +18,7 @@ done!
 
 ## Features (long)
 Ever want to just drag and drop NPC actors onto canvas without fiddling around with custom artwork? ~~And you don't mind them being randomly chosen?~~ Well here's the module for you!
+Most GMs will end up manually setting up generic actors for all the NPC classes anyways; this module just saves you the busywork. 
 
 This module contains the compendiums made from my home setup, with blank actors and preconfigured prototype tokens for Wildcard. It also includes correctly named folders to use as directories for token art.
 
@@ -26,6 +27,7 @@ LANCER for foundry doesn't come with any of the core rulebook's NPCs configured 
 Still tedious, but not *as* tedious.
 
 ## How it works
+
 This module takes advantage of Foundry's eponymous "Randomize wildcard images" feature, which randomizes the token art of actors when placed, sourcing the artwork from a given directory. All I've done is preconfigure the actors and directories for you, so you can start building your encounters instead of fiddling with NPC tokens. 
 
 You can always add your own directories and follow Foundry's guide [here](https://foundryvtt.com/article/tokens/) to configure them. 
