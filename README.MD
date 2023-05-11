@@ -54,3 +54,6 @@ Edit: updated MEGA file. now includes some factions and more art variety for non
 ### Special Thanks to the folks at PILOT NET, Foundry, and Retrograde Minis Discord Servers.
 ![wildcard demo](https://user-images.githubusercontent.com/129597129/230131296-2c2ddec6-26f9-4f5f-8fa7-a3626fadc043.gif)
 ![wildcard demo 2](https://user-images.githubusercontent.com/129597129/230759103-4cf5c024-7ac9-4a9a-8954-350c6509f205.gif)
+
+### Checkout my other module(s)!
+https://github.com/Cakeisgreater/LANCER-Toggle-Condition-LTC-
